@@ -10,3 +10,6 @@
 <img scr='./HW1_show.png'>
 
 ### HW2: 交通號誌辨識
+透過交通號誌的影像資料集
+來訓練CNN網路架構**LeNet5**使其能對影像中交通號誌進行分類
+<img scr='./HW2_show.png'>
