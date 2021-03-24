@@ -7,6 +7,6 @@
 4. 選取感興趣的區域(即含有道路線的區域)
 5. 對感興趣的區域進行 Hough Transform
 6. 將繪有道路線的影像和原始影像進行疊加
-<img scr="./HW1_show.png" width=300>
+<img scr='./HW1_show.png' width=300>
 
 ### HW2: 交通號誌辨識
